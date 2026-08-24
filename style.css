@@ -5,8 +5,8 @@
 
 .principal {
     border: 2px solid black;
-    width: 285px;
-    height: 375px;
+    width: 350px;
+    height: 450px;
     margin: auto;
 }
 
@@ -26,10 +26,6 @@
 .contato a {
     display: block;
     padding: 4px;
-}
-
-.nomes {
-    border-bottom: 1px solid black;
 }
 
 .primeiro {
