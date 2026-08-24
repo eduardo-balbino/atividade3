@@ -16,18 +16,6 @@
     height: 130px;
 }
 
-.caixas {
-    border: 2px solid black;
-    width: 125px;
-    height: 27px;
-    display: block;
-}
-
-footer {
-    border: 2px solid black;
-    margin: 10px 20px 30px 40px;
-}
-
 .contato {
     border: 2px solid black;
     width: 125px;
@@ -35,7 +23,10 @@ footer {
     display: block;
 }
 
-
+.contato a {
+    display: block;
+    padding: 4px;
+}
 
 .nomes {
     border-bottom: 1px solid black;
@@ -51,3 +42,14 @@ footer {
     border-bottom: 1px solid black;
 }
 
+.caixas {
+    display: inline-block;
+    width: 55px;
+    height: 58px;
+    border: 2px solid black;
+}
+
+footer {
+    border: 2px solid black;
+    margin: 10px 20px 30px 40px;
+}
