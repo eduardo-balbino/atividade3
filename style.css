@@ -6,7 +6,7 @@
 .principal {
     border: 2px solid black;
     width: 350px;
-    height: 450px;
+    height: 490px;
     margin: auto;
 }
 
@@ -33,7 +33,7 @@
     width: 80px;
     height: 80px;
     border: 2px solid black;
-    margin-top: 80px;
+    margin-top: 20px;
 }
 
 footer {
@@ -41,6 +41,10 @@ footer {
     margin: 10px 20px 30px 40px;
 }
 
-.segundo {
+.caixa-primeiro {
+    margin-bottom: 40px;
+}
+
+.caixa-segundo {
     margin-top: 20px;
 }
